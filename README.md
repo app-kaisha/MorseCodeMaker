@@ -5,7 +5,7 @@ Morse Code Maker is a text based program that takes any String input and convert
 ## Installation
 
 This is a Python program.
-Run `main.py` to invoke text based text to morse code translator. 
+Run `main.py` to use text to morse code translator. 
 
 ## Usage
 
